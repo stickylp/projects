@@ -1,1 +1,2 @@
-# projects
+- 👋 Hi, I’m Sticky
+- 👀 Take a look at my projects
